@@ -6,6 +6,11 @@ This repository contains a fully interactive **Banking Analytics Dashboard** bui
 The dashboard provides deep insights into **Loans, Credit/Debit Transactions, Recoveries, and Cash Flow**.
 
 ![Dashboard] <img width="1711" height="981" alt="image" src="https://github.com/user-attachments/assets/5e588c75-a5ea-40dc-b38f-7718dd61da11" />
+<img width="1858" height="1016" alt="image" src="https://github.com/user-attachments/assets/4dbe03cc-4edb-4f45-8034-1b4a0fbc2eac" />
+<img width="1889" height="1058" alt="image" src="https://github.com/user-attachments/assets/c10cf1ee-fba2-472f-bf12-efc7db43309c" />
+
+
+
  
 ---
 
